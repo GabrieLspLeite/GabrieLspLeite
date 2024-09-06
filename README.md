@@ -9,6 +9,7 @@ Linguagens: Python
 Ferramentas: Pandas, SQL
 
 Áreas de Interesse: Desenvolvimento Web, Ciência de Dados, Machine Learning
+
 Em Aprendizado
 
 - Python: Fundamentos, Pandas para manipulação de dados e análise exploratória.
