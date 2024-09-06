@@ -15,7 +15,7 @@ Em Aprendizado
 - SQL: Consultas e manipulação de bancos de dados relacionais.
 - Data Science: Projetos práticos desde a coleta até a modelagem preditiva.
 
-Projeos: https://github.com/GabrieLspLeite/revisao_aula_6
+Projetos: https://github.com/GabrieLspLeite/revisao_aula_6
 
 Contato
 E-mail: gabrielleitealtern@gmail.com
