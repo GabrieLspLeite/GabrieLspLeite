@@ -1,16 +1,18 @@
-## Hi there 👋
+## Gabriel - Desenvolvedor em Formação
+Sobre
+Estudante de Sistemas de Informação na UFRPE e Data Science na Infinity School com foco em desenvolvimento e análise de dados.
 
-<!--
-**GabrieLspLeite/GabrieLspLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades Técnicas
+Linguagens: Python
+Ferramentas: Pandas, SQL
+Áreas de Interesse: Desenvolvimento Web, Ciência de Dados, Machine Learning
+Em Aprendizado
+Python: Fundamentos, Pandas para manipulação de dados e análise exploratória.
+SQL: Consultas e manipulação de bancos de dados relacionais.
+Data Science: Projetos práticos desde a coleta até a modelagem preditiva.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato
+E-mail: gabrielleitealtern@gmail.com
+
+#Python #DataScience #SQL #UFRPE #InfinitySchool
